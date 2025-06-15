@@ -1,9 +1,6 @@
 # List
 This will contain Michael Saylor videos listed from newest to oldest.
 
-# List
-This will contain Michael Saylor videos listed from newest to oldest.
-
 061125 **Strategy Executive Chairman Michael Saylor Talks Jim Chanos for Calling to Short Strategy** Bloomberg Podcasts
 
 061025 **What One Billionaire Knows About Outlasting a Dollar Collapse | Michael Saylor | EP 554** Jordan B Peterson
@@ -417,3 +414,123 @@ This will contain Michael Saylor videos listed from newest to oldest.
 050521 **Michael Saylor: Bitcoin has no existential threats and will dominate 21st century (Pt. 1/2)** Kitco NEWS
 
 042221 **Bitcoin vs Gold: The Great Debate with Michael Saylor and Frank Giustra** Stansberry Research
+
+032321 **Michael Saylor on why companies will buy Bitcoin** Forward Guidance
+
+032521 **Michael Saylor | Can Bitcoin Be Replaced or Fail?** Paul Barron Network
+
+031921 **Fireside Chat with Michael Saylor (OSL Capital Introduction Conference)** OSL
+
+031721 **MFM #161: Why Michael Saylor Believes Bitcoin is Hope** My First Million
+
+031421 **Bitcoin is the GREATEST Asset in Human History (No Background Music)** Discover Crypto
+
+031021 **Michael Saylor on Economics, Bitcoin and Decision Making** FamilyOffice
+
+030821 **Future of Finance - Episode 2: On Bitcoin, with Michael Saylor, MicroStrategy, Inc.** DeepMacro
+
+030421 **The Future of Bitcoin with Michael Saylor** HyperChange
+
+021021 **Why you shouldn't sell your Bitcoin for the next 100 years | Interview with Michael Saylor** Cointelegraph
+
+020821 **'Michael Saylor' #Bitcoin | MIT-trained engineer 'Michael Saylor' Bitcoin Interview - Sept 2020** Stillness Speaks
+
+020821 **Galaxy Digital Presentation with Mike Novogratz** Strategy
+
+020421 **FULL VIDEO: A Mind Blowin' | Ross Stevens & Michael Saylor Discuss #Bitcoin** reizariva
+
+012821 **Michael Saylor: Why Every Nomad Needs Bitcoin** Nomad Capitalist
+
+012621 **Why Bitcoin Now: Michael Saylor on the Best Way for Companies to Buy Bitcoin - Ep.209** Unchained
+
+011621 **Economics, Inflation, Interest Rates, & Natural Competition | The Saylor Series | Episode 9 (WiM009)** Robert Breedlove
+
+011421 **Michael Saylor Interview - Bitcoin for Corporations, Elon Musk, Tether, & Building Wealth With BTC** Thinking Crypto
+
+011321 **Michael Saylor: The Physics of Bitcoin (110)** Dr Brian Keating
+
+010721 **MICHAEL SAYLOR FINALLY REVEALS HIS $15’000’000 BITCOIN PREDICTION!!!!!!!!!!!!!!!!!** MMCrypto
+
+010521 **Bitcoin and Immortal Sovereignty | The Saylor Series | Episode 8 (WiM008)** Robert Breedlove
+
+123020 **The Virtues of Strong Money | The Saylor Series | Episode 7 (WiM007)** Robert Breedlove
+
+122820 **Digital Gold: Harder, Smarter, Stronger, and Faster | The Saylor Series | Episode 6 (WiM006)** Robert Breedlove
+
+122620 **Bitcoin & Michael Saylor - A Masterclass in Economic Calculation (BTC005)** Preston Pysh
+
+122620 **Crazy Bitcoin Facts You Never Knew** The Investor's Podcast Network
+
+122320 **Channeling Monetary Energy Across Time and Space | The Saylor Series | Episode 5 (WiM005)** Robert Breedlove
+
+122120 **Bitcoin: The First Digital Monetary Energy Network | The Saylor Series | Episode 4 (WiM004)** Robert Breedlove
+
+121520 **Should Tesla Convert Its Cash To Bitcoin? w/ Michael Saylor** HyperChange
+
+120820 **CZ & Michael Saylor (MicroStrategy CEO) Fireside Chat** Binance
+
+121520 **Tech Themes thru History—Harder, Smarter, Faster, Stronger | The Saylor Series | Episode 3 (WiM003)** Robert Breedlove
+
+112220 **The Rise of Man through the Dark and Steel Ages | The Saylor Series | Episode 2 (WiM002)** Robert Breedlove
+
+112220 **The Rise of Man through The Stone and Iron Ages | The Saylor Series | Episode 1 (WiM001)** Robert Breedlove
+
+112120 **📯Michael Saylor - CEO, Microstrategy Keynote Speech** Wave Digital Assets
+
+111820 **Michael Saylor of @strategyinc: “Bitcoin is a Dominant Monetary Network” | SALT Talks #109** SALT
+
+111320 **Once BITten Podcast - Michael Saylor and Daniel Prince** Once Bitten Podcast
+
+110620 **MICHAEL SAYLOR - Bitcoin is Hope** John Vallis - Bitcoin Rapid-Fire
+
+110520 **Why Michael Saylor Invested 700M Dollars In Bitcoin** The Wolf Of All Streets
+
+110120 **Cash is Trash | Michael Saylor - MicroStrategy | REIMAGINE v4.0 #1** REIMAGINE - Web3 Events and Media
+
+103120 **The $425 Million Bitcoin Bet – Dan Held & Michael Saylor** Kraken Crypto Exchange
+
+103020 **Kraken Exchange The $425 Million Bitcoin Bet – Dan Held & Michael Saylor 2** Ricardo Reis
+
+102620 **Michael Saylor: Bitcoin bull reveals why the “digital goldrush” is coming!** MarketLit
+
+102120 **Michael Saylor on How Bitcoin Infiltrates Corporate America** Real Vision
+
+102020 **Real Conversations: Michael Saylor On Bitcoin - The Long-Term Bull Case** Hedgeye
+
+101820 **Video - The Bitcoin Bull Bull Bull with Michael Saylor** Peter McCormack
+
+101820 **Video - Bitcoin in the Boardroom with Michael Saylor** Peter McCormack
+
+101420 **Michael Saylor and Swan Bitcoin** Swan Bitcoin
+
+101320 **Michael Saylor and Danielle DiMartino Booth - Swan Signal Live - A Bitcoin Show - E33** Swan Bitcoin
+
+101220 **🏦$425M in Bitcoin can Future-proof Your Public Company with Michael Saylor | Ep. #19** Constantin Kogan
+
+100620 **Michael Saylor: Bitcoins & Domain Names as Foundation & Framework for the Future** domainsherpa
+
+100220 **Why This CEO Made a Bold $425 Million Bet on Bitcoin** Stansberry Research
+
+092820 **Chat #47 Magic Gold with Michael Saylor** Guy Swann
+
+092320 **MicroStrategy's Michael Saylor on Ditching Cash for Bitcoin [Full Video]** The Breakdown
+
+092220 **SLP213 Michael Saylor – Bitcoin Dematerializes Money** Stephan Livera
+
+091620 **Pomp Podcast #385: Michael Saylor On Buying Bitcoin With His Balance Sheet** Anthony Pompliano
+
+062917 **Michael Saylor Keynote** Saylor Academy
+
+012717 **Michael Saylor - Keynote Address at the National Press Club** Strategy
+
+111512 **Washington Ideas Forum** Michael J. Saylor
+
+101612 **Charlie Rose Show** Michael J. Saylor
+
+101012 **MicroStrategy World Amsterdam 2012** Michael J. Saylor
+
+101012 **Pivot Conference** Michael J. Saylor
+
+100912 **Brookings Institution** Michael J. Saylor
+
+090911 **National Press Club - A Technologist View of the Future of Commerce** Strategy
